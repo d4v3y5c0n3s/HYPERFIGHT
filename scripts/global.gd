@@ -151,7 +151,7 @@ var infinite_rounds = false
 var auto_rematch = false
 var print_round_end_frame = false
 var print_texts = false
-var steam_enabled = true
+var steam_enabled = false#true
 var html5_ver = false
 var custom_palettes_enabled = false
 
