@@ -79,7 +79,7 @@ config/icon="res://icon.png"
 global="*res://scripts/global.gd"
 pixel_zoom="*res://scripts/misc/pixel_zoom.gd"
 global_audio="*res://scenes/global_audio.tscn"
-Steam="res://scripts/misc/Steam.gd"
+Steam="*res://scripts/misc/Steam.gd"
 
 [debug]
 
